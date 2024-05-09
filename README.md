@@ -1,6 +1,6 @@
 ### js--Andr-correa🌎🐲🌌
 
-Meu nome é andré correa
+Meu nome é ***andré*** correa
 
 Eu estou estudando na Alura, e puriquanto estou desenvolvendo na lingusgem JavaScript.
 
