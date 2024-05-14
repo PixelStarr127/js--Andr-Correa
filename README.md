@@ -1,6 +1,6 @@
 # *Seja Bem-Vindo* 🌎🐲🌌
 
-Meu nome é ***André*** correa.
+Meu nome é ***André*** ***correa***.
 
 Eu estou estudando na Alura, e purinquanto estou desenvolvendo a lingusgem JavaScript.
 
